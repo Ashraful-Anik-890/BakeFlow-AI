@@ -9,10 +9,10 @@ Key Features
 Project Setup (Running Locally)
 BakeFlow AI is built as a single, self-contained HTML file, making local deployment extremely simple.
 Save the File: Save the content of bakeflow_ai.html into a new file named index.html (or bakeflow_ai.html) on your computer.
-Open in Browser: Double-click the saved .html file. It will automatically open in your default web browser (Chrome, Firefox, VS Code Live Server, etc.).
+Open in Browser: Double-click the saved .html file. it will automatically open in your default web browser (Chrome, Firefox, VS Code Live Server, etc.).
 
 
-⚠️ IMPORTANT: API Key Requirement
+⚠️IMPORTANT: API Key Requirement
 The Promotion Blurb Generator and Ingredient Substitution Suggestor features require access to a content generation API. The code is currently set up to use the Google AI service, but it needs your personal API key to function.
 
 Steps to Enable Smart Features:
