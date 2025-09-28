@@ -1,10 +1,9 @@
 Key Features
-Customizable Forecasting: Uses client data and allows selection between three prediction algorithms (Weighted Average, Simple Moving Average, Day-of-Week Trend).
-
-1. Data Visualization: Displays overall sales distribution (Pie Chart) and recent sales history (Bar Chart) for context.
-2. Marketing Assistance (API Required): Generates enticing promotional blurbs for social media based on predicted high demand.
-3. Operational Assistance (API Required): Suggests ingredient substitutions for recipe management and inventory flexibility.
-4. Responsive Design: Single-column layout using Tailwind CSS for a clean display on desktop and mobile.
+1. Customizable Forecasting: Uses client data and allows selection between three prediction algorithms (Weighted Average, Simple Moving Average, Day-of-Week Trend).
+2. Data Visualization: Displays overall sales distribution (Pie Chart) and recent sales history (Bar Chart) for context.
+3. Marketing Assistance (API Required): Generates enticing promotional blurbs for social media based on predicted high demand.
+4. Operational Assistance (API Required): Suggests ingredient substitutions for recipe management and inventory flexibility.
+5. Responsive Design: Single-column layout using Tailwind CSS for a clean display on desktop and mobile.
 
 
 Project Setup (Running Locally)
